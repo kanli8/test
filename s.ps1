@@ -1,3 +1,5 @@
+#Requires -RunAsAdministrator
+
 move-item -path "C:\Users\abc\test.zip" -destination "C:\Users\abc\test.vhd" 
 mount-DiskImage -ImagePath C:\Users\abc\test.vhd
 cd G:\github
