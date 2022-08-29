@@ -1,3 +1,5 @@
+#Requires -RunAsAdministrator
+
 cd G:\github\iot_nodejs
 git add .
 git commit -a -m 'a'
